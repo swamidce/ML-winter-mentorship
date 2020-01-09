@@ -143,7 +143,7 @@ Support Vector Machine
 
 3. [Lecture](https://www.youtube.com/watch?v=TtKF996oEl8)
  
- ### Task : Extracting Dominant Colours
+ ### Final Project : Dominant Color Extraction
  
  
   
